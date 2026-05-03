@@ -21,10 +21,16 @@ MEM  [############################............]  70.5%  5734 MiB used / 8192 MiB
 
 ## Quick start
 
+Create executable
+
 ```bash
 make && ./sysmon
 ```
+Run executable
 
+```bash
+./sysmon
+```
 ## Why this project exists
 
 Built as a learning exercise to understand how the Linux kernel exposes
